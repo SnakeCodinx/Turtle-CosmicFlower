@@ -16,7 +16,7 @@ Uses the Turtle graphics library for a retro, nostalgic feel
 Adjustable parameters for customization and experimentation
 Perfect for art, design, and coding enthusiasts alike
 
-#Getting Started:
+# Getting Started:
 
 Clone the repository to your local machine
 Run the cosmic_flower.py script using Python 3.x
@@ -25,7 +25,7 @@ Contributing:
 
 Feel free to modify the script, experiment with different colors and patterns, and share your creations with the community! Pull requests are welcome.
 
-#License:
+# License:
 
 This repository is licensed under the MIT License. See LICENSE for details.
 
